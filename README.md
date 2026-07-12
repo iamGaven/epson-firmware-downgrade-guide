@@ -28,7 +28,7 @@ You'll need firmware version **SI13LC**. This is the version that fixed the 3rd-
 
 These are Epson's own official files — I've made them easier to find by hosting them here instead of you having to dig around the internet for them.
 
-📁 **Firmware file:** `FWCJ07TL_SI13LC.exe` — [see Releases](#) *(add link to your GitHub Release/file here)*
+📁 **Firmware file:** `FWCJ07TL_SI13LC.exe` — [see Releases](https://github.com/iamGaven/epson-firmware-downgrade-guide/releases/tag/v1) 
 
 If your printer isn't a WF-3820, or you need a different firmware version, you can find more firmware files for other Epson WorkForce models here:
 
@@ -50,10 +50,12 @@ Before you can flash the firmware, you need to put the printer into **Update Mod
 
 🎥 **Video walkthrough:** [How to enter Update Mode](https://www.youtube.com/watch?v=eW9sdQO9NRU)
 
+![How to get into Update mode](pictures/PrinterRecoveryMode.PNGg)
+
+
 Once you're in Update Mode, your printer's screen should look like this:
 
-<picture>
-*(add screenshot/photo here)*
+![Printer in Recovery Mode](pictures/UpdateModeScreen.jpg)
 
 ---
 
