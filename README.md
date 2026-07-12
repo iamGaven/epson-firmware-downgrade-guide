@@ -50,7 +50,7 @@ Before you can flash the firmware, you need to put the printer into **Update Mod
 
 🎥 **Video walkthrough:** [How to enter Update Mode](https://www.youtube.com/watch?v=eW9sdQO9NRU)
 
-![How to get into Update mode](pictures/PrinterRecoveryMode.PNGg)
+![How to get into Update mode](pictures/PrinterRecoveryMode.PNG)
 
 
 Once you're in Update Mode, your printer's screen should look like this:
